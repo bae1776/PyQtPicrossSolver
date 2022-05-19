@@ -37,6 +37,6 @@ After write all input data, just Press solve Button.
 
 It's made for fun, so the source code is spaghetti. (I'm inexperienced at PyQt5)
 If you want to run Python Source, Run Test.py, but it won't work because this repository doesn't have "AbstractPicrossClass". 
-If you have interested, Email me(bae1776@gmail.com) and I'll send the required source code to you.
+If you are interested for any reason, Email me(bae1776@gmail.com) and I'll send the required source code to you.
 
 
