@@ -13,8 +13,8 @@ Program Function :
 
 
 
-1. Row/Column Edit
-Click Orange Arrow to revise line Data
+1. Row/Column Edit \n
+Click SkyBlue Arrow to revise line Data
 
 + Also can input nonogram line data by importing textFile
 Sample : input10x10.txt, input30x30.txt, input50x50.txt
