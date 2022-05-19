@@ -13,7 +13,7 @@ Program Function :
 
 
 
-1. Row/Column Edit \n
+1. Row/Column Edit :
 Click SkyBlue Arrow to revise line Data
 
 + Also can input nonogram line data by importing textFile
